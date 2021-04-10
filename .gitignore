@@ -1,0 +1,13 @@
+.collabignore
+.gitattributes
+Assembly-CSharp.csproj
+Final Project (1).csproj
+Final Project (1).csproj
+Unity.CollabProxy.Editor.csproj
+Unity.Rider.Editor.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.TextMeshPro.csproj
+Unity.VSCode.Editor.csproj
+Unity.VisualStudio.Editor.csproj
+UnityEditor.TestRunner.csproj
+UnityEngine.TestRunner.csproj
